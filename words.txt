@@ -1,0 +1,14 @@
+banana
+dog
+cat
+octopus
+orange
+elephant
+horse
+apple
+pear
+grapefruit
+monkey
+bull
+house
+shelter
